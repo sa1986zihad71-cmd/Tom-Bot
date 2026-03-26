@@ -4,11 +4,11 @@
   "botName": "ᴛᴏᴍ ᴘʀᴏ ʙᴏᴛ",
   "botOwner": "ᴛᴏᴍ x",
   "ownerNumber": "8801892625209",
-  "botNumber": "Your Bot Number",
+  "botNumber": "8801714821271",
   "autoUpdate": true,
   "timeZone": "Asia/Dhaka",
   "botUid": "tom_pro_01",
-  "PREFIX": "!",
+  "PREFIX": "/",
   "admin": [
     "8801XXXXXXXXX",
     "group_id_here"
