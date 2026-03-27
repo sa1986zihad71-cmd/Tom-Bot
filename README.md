@@ -83,7 +83,7 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
   ```
 <br>
 
-For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-bot/wiki)
+For help visit [Github wiki](https://github.com/sa1986zihad71-cmd/Tom-Bot)
 
 ***
 
